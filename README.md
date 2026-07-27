@@ -9,6 +9,7 @@ I enjoy building practical products, experimenting with AI, and turning ideas in
 - AI-powered tools
 - SaaS products
 - Full-stack web applications
+- Freelancing parttime (content,  video editinf)
 
 ## 🛠️ Technologies I'm Learning
 
@@ -17,7 +18,7 @@ I enjoy building practical products, experimenting with AI, and turning ideas in
 - TypeScript
 - React
 - Git & GitHub
-- AI/ML
+- AI/ML & so on
 
 ## 📌 Featured Projects
 
@@ -25,5 +26,5 @@ Check out my pinned repositories below 👇
 
 ## 📫 Connect With Me
 
-- LinkedIn: Add your LinkedIn link here
-- Portfolio: Add your portfolio link here
+- LinkedIn: https://www.linkedin.com/in/ruturaj-kulkarni-2760b7296/
+- Portfolio: https://github.com/drono243
